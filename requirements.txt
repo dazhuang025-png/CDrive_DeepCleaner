@@ -1,0 +1,6 @@
+psutil
+winshell
+send2trash
+tqdm
+colorama
+humanize
